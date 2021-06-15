@@ -41,23 +41,23 @@ El uso de la simulación por ordenador es una herramienta imprescindible hoy en 
 
 ### 5.1 Arme el circuito que se presenta en la figura 3.1.
 
- ![Screenshot]()
+ ![Screenshot](LaboratorioNo3/1.jpg)
  
 Figura 3.1. Circuito para el análisis de nodos.
  
 ### 5.2 Mida cada uno de los voltajes de nodo y anote los resultados en la tabla 3.1.
 
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
+![Screenshot](LaboratorioNo3/2.jpg)
+![Screenshot](LaboratorioNo3/3.jpg)
+![Screenshot](LaboratorioNo3/4.jpg)
  
 ### 5.3 Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 3.1, obtenido los valores de los voltajes de nodo. Anote los resultados en la tabla 3.1.
  
-![Screenshot]()
+![Screenshot](LaboratorioNo3/5.jpg)
 
 ### 5.4 Compare los valores de la tabla 3.1 y realice sus conclusiones.
 
-![Screenshot]()
+![Screenshot](LaboratorioNo3/6.jpg)
 
 Obtenemos que tanto los valores realizados mediante los calculos de los valores y  de los voltajes en los nodos se asemejan a los obtenidos con el sotfware Multisim, con una leve diferencia en sus decimales, eso nos da a entender que cada valor se encuentra correctamente y se implemento de manera adecuada las LCK.
 
